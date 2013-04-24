@@ -5,3 +5,6 @@
 .overactive{
   text-align: center;
 }
+body{
+  background-image: url('hex.png');
+}
