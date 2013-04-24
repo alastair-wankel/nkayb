@@ -3,9 +3,5 @@
 
 }
 .overactive{
-  text-align: center;
+  float: left;
 }
-body{
-  background-image: url('sidebar.png');
-  background-repeat: repeat-y;
-} 
