@@ -20,7 +20,7 @@
   float: left;
   position: fixed;
   top: 60px;
-  right: 30px;
+  left: 30px;
 
 
 }
@@ -28,7 +28,7 @@
   float: left;
   position: fixed;
   top: 120px;
-  right: 124px;
+  left: 124px;
   
 
 
@@ -37,7 +37,7 @@
   float: left;
   position: fixed;
   top: 180px;
-  right: 155px;
+  left: 155px;
 }
 body{
   background-color: black;
