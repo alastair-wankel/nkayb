@@ -12,16 +12,16 @@
   margin: 0 auto;
   width: 960px;
 
-
 }
 .whoami{
+  position: relative;
   float: left;
   
 }
 
 .whatamiworkingon{
   float: left;
-  position: fixed;
+  position: absolute;
   top: 60px;
   left: 180px;
 
@@ -29,7 +29,7 @@
 }
 .freetime {
   float: left;
-  position: fixed;
+  position: absolute;
   top: 120px;
   left: 124px;
   
@@ -38,7 +38,7 @@
 }
 .tagright2{
   float: left;
-  position: fixed;
+  position: absolute;
   top: 180px;
   left: 155px;
 }
