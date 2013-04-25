@@ -14,33 +14,27 @@
 
 }
 .whoami{
-  position: relative;
   float: left;
+  display: block;
   
 }
 
 .whatamiworkingon{
   float: left;
-  position: absolute;
-  top: 60px;
-  left: 180px;
+  display: block;
 
 
 }
 .freetime {
   float: left;
-  position: absolute;
-  top: 120px;
-  left: 124px;
-  
+  display: block;
 
 
 }
 .tagright2{
   float: left;
-  position: absolute;
-  top: 180px;
-  left: 155px;
+  display: block;
+  
 }
 body{
   background-color: black;
