@@ -3,7 +3,8 @@
     font-family: "Atomic Age";
     color: #00FFFF;
     float: right;
-    bottom: 0;
+    top: 0;
+    right: 0;
 
 }
 .whoami{
