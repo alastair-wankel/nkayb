@@ -8,17 +8,20 @@
     
 
 }
-.whoami{
-  float: left;
-}
 .container{
   margin: 0 auto;
   width: 960px;
 
+
 }
+.whoami{
+  float: left;
+  position: fixed;
+}
+
 .whatamiworkingon{
   float: left;
-  
+  position: fixed;
   top: 60px;
   left: 30px;
 
@@ -26,7 +29,7 @@
 }
 .freetime {
   float: left;
-  
+  position: fixed;
   top: 120px;
   left: 124px;
   
@@ -35,7 +38,7 @@
 }
 .tagright2{
   float: left;
-  
+  position: fixed;
   top: 180px;
   left: 155px;
 }
