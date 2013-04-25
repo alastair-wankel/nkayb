@@ -18,15 +18,15 @@
 }
 .whatamiworkingon{
   float: left;
-  position: relative;
+  position: fixed;
   top: 60px;
   right: 30px;
 
 
 }
-.tagleft{
+.freetime {
   float: left;
-  position: relative;
+  position: fixed;
   top: 120px;
   right: 124px;
   
@@ -35,7 +35,7 @@
 }
 .tagright2{
   float: left;
-  position: relative;
+  position: fixed;
   top: 180px;
   right: 155px;
 }
