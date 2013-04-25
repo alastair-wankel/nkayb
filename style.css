@@ -14,26 +14,26 @@
 
 }
 .whoami{
+  float: left;
   
-  display: block;
   
 }
 
 .whatamiworkingon{
-  left: 30px;
-  display: block;
-
+  float: left;
+  margin-top: 45px;
+  margin-right: 45px;
 
 }
 .freetime {
+  float: left;
   
-  display: block;
 
 
 }
 .tagright2{
+  float: left;
   
-  display: block;
 
 }
 body{
