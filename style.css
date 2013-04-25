@@ -9,15 +9,16 @@
 
 
 }
-.am{
+/**.am{
   font-size: 10px
   font-family: "Atomic Age";
   color: #00FFFF;
   position: relative;
   right: -50px;
-
-
 }
+**/
+
+
 .container{
   margin: 0 auto;
   width: 960px;
