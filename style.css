@@ -2,9 +2,10 @@
     font-size: 18px;
     font-family: "Atomic Age";
     color: #00FFFF;
-    float: right;
-    top: 0;
+    position: fixed;
+    bottom: 0;
     right: 0;
+    
 
 }
 .whoami{
