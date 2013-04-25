@@ -5,6 +5,11 @@
 .overactive{
   float: left;
 }
+.container{
+  margin: 0 auto;
+  width: 960px;
+
+}
 .tagright{
   float: left;
   position: relative;
