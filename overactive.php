@@ -6,9 +6,10 @@
 
 <form >
 What is your name?<input type="text" name="name"><br>
-What is your quest?<input type="text" name="quest"<br>
-What is your favorite color?<input type="text" name="favColor">
-<input type="submit" value="submit to me">
+What is your quest?<input type="text" name="quest"><br>
+What is your favorite color?<input type="text" name="favColor"><br>
+<input type="submit" value="submit to me"><br>
+
 
 
 </form>
