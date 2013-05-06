@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h1>Test forms</h1>
 
 <form >
 What is your name?<input type="text" name="name"><br>
