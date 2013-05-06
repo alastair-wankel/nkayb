@@ -16,6 +16,10 @@
   
     
 }
+.inner{
+  margin 0 auto;
+  width: 960px;
+}
 /**.am{
   font-size: 10px
   font-family: "Atomic Age";
