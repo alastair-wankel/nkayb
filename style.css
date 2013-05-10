@@ -9,6 +9,18 @@
 
 
 }
+a {
+  color: #00FFFF;
+  padding: 2px 5px;
+  line-height: 30px;
+  text-decoration: none;
+  -webkit-border-radius: 3px;
+  background: rgba(0, 0, 0, 0.1) !important;
+}
+
+a:hover {
+  background: rgba(0, 0, 0, 0.15) !important;
+}
 
 .blurb{
     margin-top: 15px;
@@ -19,9 +31,8 @@
   
   
 }
-.twitter{
-  color: #00FFFF;
-}
+
+
 .inner{
   margin 0 auto;
   width: 640px;
