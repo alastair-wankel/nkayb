@@ -14,7 +14,7 @@ a {
   padding: 2px 5px;
   line-height: 30px;
   text-decoration: none;
-  -webkit-border-radius: 3px;
+  
   background: rgba(0, 0, 0, 0.1) !important;
 }
 
@@ -31,6 +31,11 @@ a:hover {
   
   
 }
+.clearfix {
+  display: inline-block;
+}
+
+
 
 
 .inner{
