@@ -16,7 +16,8 @@ a {
   
 }
 
-.steam:hover {
+.steam.discogs.twitter:hover {
+  color:#000000;
   background-color: #FFFF00 
 }
 
