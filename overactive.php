@@ -6,7 +6,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 <style type="text/css">
 #div1, #div2
 {float:left; width:100px; height:35px; margin:10px;padding:10px;border:1px solid #aaaaaa;}
