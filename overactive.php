@@ -5,7 +5,7 @@
 <title>The Boy With The Green Blanket</title>
 <head>
 <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
-
+<style type="text/css" .socials {padding: 10px;}></style>
 </head>
 <body>
 
@@ -14,7 +14,7 @@
     <div class"container">
       <ul class="nav">
         <li class="active">
-          <a class="brand" href="www.nkayb.com">Nkayb.com</a>
+          <a class="brand" href="http://www.nkayb.com">Nkayb.com</a>
         </li>
         <li><a href="#">About</a></li>
         <li><a href="#">Portfolio</a></li>
