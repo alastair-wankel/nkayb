@@ -4,6 +4,8 @@
 <html lang="en">
 <title>The Boy With The Green Blanket</title>
 <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 <style type="text/css" body { padding-top: 60px;
   padding-bottom: 40px;
