@@ -9,7 +9,7 @@
 <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 <style type="text/css">
 #div1, #div2
-{float:left; width:100px; height:35px; margin:10px;padding:10px;border:1px solid #aaaaaa;}
+{float:left; width:100px; height:35px; margin:100px;padding:100px;border:1px solid #aaaaaa;}
 </style>
 
 </head>
