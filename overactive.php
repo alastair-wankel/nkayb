@@ -9,7 +9,9 @@
 <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 <style type="text/css">
 #div1, #div2
-{float:left; width:100px; height:35px; margin:100px;padding:100px;border:1px solid #aaaaaa;}
+{float:left; width:100px; height:35px; margin:100px;padding:10px;border:1px solid #aaaaaa;}
+#drag1
+{float: right; margin: 100px;}
 </style>
 
 </head>
@@ -48,7 +50,7 @@
       </div>
     </div>
     <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
-    <img src="/images/img_w3slogo.gif" draggable="true" ondragstart="drag(event)" id="drag1">
+    <img src="images/img_w3slogo.gif" draggable="true" ondragstart="drag(event)" id="drag1">
 
     <div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
 
