@@ -11,7 +11,7 @@
 #div1, #div2
 {float:left; width:100px; height:35px; margin:10px;padding:10px;border:1px solid #aaaaaa;}
 #drag1
-{float: left;}
+{float: left; margin: }
 </style>
 
 </head>
@@ -49,11 +49,11 @@
         </div>
       </div>
     </div>
-    <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
-    <img src="images/img_w3slogo.gif" draggable="true" ondragstart="drag(event)" id="drag1">
-
-    <div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
-
+    <div class="container">
+      <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+      <img src="images/img_w3slogo.gif" draggable="true" ondragstart="drag(event)" id="drag1">
+      <div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+    </div>
 
 
 
