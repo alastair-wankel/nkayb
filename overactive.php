@@ -12,7 +12,7 @@
 <div class="navbar navbar-fixed-top" >
   <div class="navbar-inner">
     <div class"container">
-      <<button type="button" class="btn btn-navbar"></button>
+      <<button type="button" class="btn btn-navbar">Home</button>
 
 
 
