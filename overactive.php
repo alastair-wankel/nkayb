@@ -50,11 +50,12 @@
       </div>
     </div>
     <div class="container">
+      <div class="hero-unit">
       <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
       <img src="images/img_w3slogo.gif" draggable="true" ondragstart="drag(event)" id="drag1">
       <div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
     </div>
-
+  </div>
 
 
     <script src="../assets/js/jquery.js"></script>
