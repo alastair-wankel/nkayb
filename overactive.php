@@ -5,7 +5,13 @@
 <title>The Boy With The Green Blanket</title>
 <head>
 <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
-<style type="text/css" .socials {padding: 10px;}></style>
+<style type="text/css" body { padding-top: 60px;
+  padding-bottom: 40px;
+}
+   >
+
+
+</style>
 </head>
 <body>
 
