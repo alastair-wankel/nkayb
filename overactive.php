@@ -12,7 +12,15 @@
 <div class="navbar navbar-fixed-top" >
   <div class="navbar-inner">
     <div class"container">
-      <<button type="button" class="btn btn-navbar">Home</button>
+      <ul class="nav">
+        <li class="active">
+          <a class="brand" href="www.nkayb.com">Nkayb.com</a>
+        </li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <button type="button" class="btn btn-navbar">Home</button>
 
 
 
