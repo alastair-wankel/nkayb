@@ -11,9 +11,14 @@
     <!-- Le styles -->
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
-#div1, #div2
-{float:left; width:100px; height:35px; margin:10px;padding:10px;border:1px solid #aaaaaa;}
-</style>
+    
+    #div1, #div2
+    {float:left; width:100px; height:35px; margin:10px;padding:10px;border:1px solid #aaaaaa;}
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
     <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 
 
