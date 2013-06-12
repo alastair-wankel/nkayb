@@ -78,8 +78,10 @@
         <div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
       </div>
 
+
       <!-- Example row of columns -->
-      <div class="carousel slide span8" id="myCarousel">
+<div class="row">
+<div class="carousel slide span8" id="myCarousel">
 <div class="carousel-inner">
   <div class="item active">
         <ul class="thumbnails">
@@ -96,6 +98,7 @@
 </div>
 <a data-slide="prev" href="#myCarousel" class="left carousel-control">‹</a>
 <a data-slide="next" href="#myCarousel" class="right carousel-control">›</a>
+</div>
 </div>
 
       <hr>
