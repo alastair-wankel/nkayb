@@ -11,11 +11,9 @@
     <!-- Le styles -->
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
-      body {
-        padding-top: 60px;
-        padding-bottom: 40px;
-      }
-    </style>
+#div1, #div2
+{float:left; width:100px; height:35px; margin:10px;padding:10px;border:1px solid #aaaaaa;}
+</style>
     <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 
 
@@ -70,7 +68,9 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit" ondrop="drop(event)" ondragover="allowDrop(event)">
+        <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
         
+        <div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
       </div>
 
       <!-- Example row of columns -->
