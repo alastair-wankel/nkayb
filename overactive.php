@@ -88,71 +88,11 @@
                     <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" alt="">
                 </div>
             </li>
-            <li class="span2">
-                <div class="thumbnail">
-                    <img draggable="true" ondragstart="drag(event)" src="http://placehold.it/260x180" alt="">
-                </div>
-            </li>
-            <li class="span2">
-                <div class="thumbnail">
-                    <img draggable="true" ondragstart="drag(event)"   src="http://placehold.it/260x180" alt="">
-                </div>
-            </li>
-            <li class="span2">
-                <div class="thumbnail">
-                    <img draggable="true" ondragstart="drag(event)"   src="http://placehold.it/260x180" alt="">
-                </div>
-            </li>
+            
         </ul>
   </div>
-  <div class="item">
-        <ul class="thumbnails">
-            <li class="span2">
-                <div class="thumbnail">
-                    <img src="http://placehold.it/260x180" alt="">
-                </div>
-            </li>
-            <li class="span2">
-                <div class="thumbnail">
-                    <img src="http://placehold.it/260x180" alt="">
-                </div>
-            </li>
-            <li class="span2">
-                <div class="thumbnail">
-                    <img src="http://placehold.it/260x180" alt="">
-                </div>
-            </li>
-            <li class="span2">
-                <div class="thumbnail">
-                    <img src="http://placehold.it/260x180" alt="">
-                </div>
-            </li>
-        </ul>
-  </div>
-  <div class="item">
-        <ul class="thumbnails">
-            <li class="span2">
-                <div class="thumbnail">
-                    <img  src="http://placehold.it/260x180" alt="">
-                </div>
-            </li>
-            <li class="span2">
-                <div class="thumbnail">
-                    <img src="http://placehold.it/260x180" alt="">
-                </div>
-            </li>
-            <li class="span2">
-                <div class="thumbnail">
-                    <img src="http://placehold.it/260x180" alt="">
-                </div>
-            </li>
-            <li class="span2">
-                <div class="thumbnail">
-                    <img src="http://placehold.it/260x180" alt="">
-                </div>
-            </li>
-        </ul>
-  </div>
+  
+  
 </div>
 <a data-slide="prev" href="#myCarousel" class="left carousel-control">‹</a>
 <a data-slide="next" href="#myCarousel" class="right carousel-control">›</a>
