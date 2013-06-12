@@ -72,16 +72,57 @@
       </div>
 
       <!-- Example row of columns -->
-      <div id="myCarousel" class="carosuel slide">
+      <div class="container">
+    <div class="carousel slide" id="myCarousel">
         <div class="carousel-inner">
-          <div class="active item"></div>
-          <div class="item">Hello</div>
-          <div class="item">World</div>
+          <div class="item active">
+                <ul class="thumbnails span12">
+                    <li>
+                        <div class="caption">
+                            <h5>Caption</h5>
+                        </div>
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/260x180" alt="">
+                        </div>
+                    </li>
+                    <li>
+                        <div class="caption">
+                            <h5>Caption</h5>
+                        </div>
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/260x180" alt="">
+                        </div>
+                    </li>
+                    <li>
+                        <div class="caption">
+                            <h5>Caption</h5>
+                        </div>
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/260x180" alt="">
+                        </div>
+                    </li>
+                    <li>
+                        <div class="caption">
+                            <h5>Caption</h5>
+                        </div>
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/260x180" alt="">
+                        </div>
+                    </li>
+                </ul>
+          </div>         
+          <div class="item">
+               ...
+          </div>
+          <div class="item">
+               ...
+          </div>
 
         </div>
-        <a class="carousel-control left" href="#myCarousel" data-slide="prev"></a>
-        <a class="carousel-control right" href="#myCarousel" data-slide="next"></a>
-      </div>
+        <a data-slide="prev" href="#myCarousel" class="left carousel-control">‹</a>
+        <a data-slide="next" href="#myCarousel" class="right carousel-control">›</a>
+    </div>
+</diV>
 
       <hr>
 
