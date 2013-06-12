@@ -46,13 +46,9 @@
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                  <li><a href="#">Action</a></li>
-                  <li><a href="#">Another action</a></li>
-                  <li><a href="#">Something else here</a></li>
-                  <li class="divider"></li>
-                  <li class="nav-header">Nav header</li>
-                  <li><a href="#">Separated link</a></li>
-                  <li><a href="#">One more separated link</a></li>
+                  <li><a href="warframes">Warframes</a></li>
+                  <li><a href="weapons">Weapons</a></li>
+                  <li><a href="sentinels">Sentinels</a></li>
                 </ul>
               </li>
             </ul>
@@ -105,24 +101,7 @@
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
 
-    <script>
-    function allowDrop(ev)
-    {
-ev.preventDefault();
-}
-
-function drag(ev)
-{
-ev.dataTransfer.setData("Text",ev.target.id);
-}
-
-function drop(ev)
-{
-ev.preventDefault();
-var data=ev.dataTransfer.getData("Text");
-ev.target.appendChild(document.getElementById(data));
-}
-</script>
+    
 
 
 
