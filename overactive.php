@@ -126,7 +126,7 @@
         <ul class="thumbnails">
             <li class="span2">
                 <div class="thumbnail">
-                    <img src="http://placehold.it/260x180" alt="">
+                    <img  src="http://placehold.it/260x180" alt="">
                 </div>
             </li>
             <li class="span2">
@@ -161,6 +161,24 @@
       
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
+    <script>
+function allowDrop(ev)
+{
+ev.preventDefault();
+}
+
+function drag(ev)
+{
+ev.dataTransfer.setData("Text",ev.target.id);
+}
+
+function drop(ev)
+{
+ev.preventDefault();
+var data=ev.dataTransfer.getData("Text");
+ev.target.appendChild(document.getElementById(data));
+}
+</script>
 
     
 
