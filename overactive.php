@@ -80,7 +80,7 @@
         <ul class="thumbnails">
             <li class="span2">
                 <div class="thumbnail">
-                    <img draggable="true" ondragstart="drag(event)"  src="http://placehold.it/260x180" alt="">
+                    <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" alt="">
                 </div>
             </li>
             <li class="span2">
