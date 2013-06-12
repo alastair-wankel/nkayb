@@ -101,8 +101,8 @@
       </footer>
 
     </div> 
+      
     
-    <script src="http://code.jquery.com/jquery.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
 
 
