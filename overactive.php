@@ -75,8 +75,8 @@
       <div id="myCarousel" class="carosuel slide">
         <div class="carousel-inner">
           <div class="active item"></div>
-          <div class="item"></div>
-          <div class="item"></div>
+          <div class="item">Hello</div>
+          <div class="item">World</div>
 
         </div>
         <a class="carousel-control left" href="#myCarousel" data-slide="prev"></a>
