@@ -70,9 +70,7 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit" ondrop="drop(event)" ondragover="allowDrop(event)">
-        <h1>Hello, world!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a href="#" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+        
       </div>
 
       <!-- Example row of columns -->
@@ -82,22 +80,22 @@
         <ul class="thumbnails">
             <li class="span2">
                 <div class="thumbnail">
-                    <img draggable="true" src="http://placehold.it/260x180" alt="">
+                    <img draggable="true" ondragstart="drag(event)"  src="http://placehold.it/260x180" alt="">
                 </div>
             </li>
             <li class="span2">
                 <div class="thumbnail">
-                    <img draggable="true" src="http://placehold.it/260x180" alt="">
+                    <img draggable="true" ondragstart="drag(event)" src="http://placehold.it/260x180" alt="">
                 </div>
             </li>
             <li class="span2">
                 <div class="thumbnail">
-                    <img draggable="true"  src="http://placehold.it/260x180" alt="">
+                    <img draggable="true" ondragstart="drag(event)"   src="http://placehold.it/260x180" alt="">
                 </div>
             </li>
             <li class="span2">
                 <div class="thumbnail">
-                    <img draggable="true"  src="http://placehold.it/260x180" alt="">
+                    <img draggable="true" ondragstart="drag(event)"   src="http://placehold.it/260x180" alt="">
                 </div>
             </li>
         </ul>
