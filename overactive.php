@@ -1,4 +1,5 @@
-PE html>
+P
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -15,7 +16,7 @@ PE html>
         padding-bottom: 40px;
       }
     </style>
-   
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -23,7 +24,7 @@ PE html>
     <![endif]-->
 
     <!-- Fav and touch icons -->
-    
+   
   </head>
 
   <body>
@@ -99,9 +100,7 @@ PE html>
         <p>&copy; Company 2013</p>
       </footer>
 
-    </div>
-
-    
+    </div> 
     <script src="../assets/js/jquery.js"></script>
     <script src="../assets/js/bootstrap-transition.js"></script>
     <script src="../assets/js/bootstrap-alert.js"></script>
@@ -115,6 +114,9 @@ PE html>
     <script src="../assets/js/bootstrap-collapse.js"></script>
     <script src="../assets/js/bootstrap-carousel.js"></script>
     <script src="../assets/js/bootstrap-typeahead.js"></script>
+
+
+
 
     <script>
             function allowDrop(ev)
