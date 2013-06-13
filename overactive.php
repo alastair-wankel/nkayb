@@ -12,7 +12,7 @@
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
     
-    #div1, #div2
+    #div1, #div2, #div3
     {float:left; width:100px; height:35px; margin:10px;padding:10px;border:1px solid #aaaaaa;}
       body {
         padding-top: 60px;
@@ -98,8 +98,8 @@
         <ul class="thumbnails">
             <li class="span2">
                     <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
-                    <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
-                    <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                    <div id="div2"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                    <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
 
                    
                 
