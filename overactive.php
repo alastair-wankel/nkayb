@@ -84,15 +84,15 @@
   <div class="row">
   <div class="carousel slide span8" id="myCarousel">
   <div class="carousel-inner">
-  <div class="item active" ondrop="drop(event)" ondragover="allowDrop(event)">
+  <div class="item active" >
         <ul class="thumbnails">
-            <li class="span3">
+            <li class="span2">
                             <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
-                        <li class="span3">
+                        <li class="span2">
                             <div id="div2"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
-                        <li class="span3">
+                        <li class="span2">
                             <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
             
