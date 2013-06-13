@@ -12,7 +12,7 @@
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
     
-    #div1, #div2, #div3
+    #div1, #div2, #div3, #div4
     {float:left; width:100px; height:35px; margin:1px;padding:10px;border:1px solid #aaaaaa;}
       body {
         padding-top: 60px;
