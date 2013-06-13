@@ -86,27 +86,20 @@
   <div class="carousel-inner">
   <div class="item active" ondrop="drop(event)" ondragover="allowDrop(event)">
         <ul class="thumbnails">
-            <li class="span2">
-                
-                    
-                
-            </li>
+            <li class="span3">
+                            <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                        </li>
+                        <li class="span3">
+                            <div id="div2"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                        </li>
+                        <li class="span3">
+                            <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                        </li>
             
         </ul>
   </div>
-  <div class="item active" ondrop="drop(event)" ondragover="allowDrop(event)">
-        <ul class="thumbnails">
-            <li class="span2">
-                    <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
-                    <div id="div2"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
-                    <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+  
 
-                   
-                
-            </li>
-            
-        </ul>
-  </div>
   
   
 </div>
