@@ -13,7 +13,7 @@
     <style type="text/css">
     
     #div1, #div2
-    {float:left; width:100px; height:35px; margin:50px;padding:10px;border:1px solid #aaaaaa;}
+    {float:left; width:100px; height:35px; margin:10px;padding:10px;border:1px solid #aaaaaa;}
       body {
         padding-top: 60px;
         padding-bottom: 40px;
@@ -73,9 +73,9 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit" ondrop="drop(event)" ondragover="allowDrop(event)">
-        <div id="div1" class="hero-unit" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
         <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" id="drag3" width="88" height="31">
-        <div id="div2" class="hero-unit" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+        <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" id="drag1" width="88" height="31">
+        <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" id="drag2" width="88" height="31">
       </div>
 
     </div>
@@ -88,7 +88,7 @@
         <ul class="thumbnails">
             <li class="span2">
                 
-                    <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" id="drag2" width="88" height="31">
+                    
                 
             </li>
             
@@ -101,7 +101,7 @@
                     <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                     <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
 
-                    <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" id="drag1" width="88" height="31">
+                   
                 
             </li>
             
