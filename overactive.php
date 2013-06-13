@@ -13,7 +13,7 @@
     <style type="text/css">
     
     #div1, #div2, #div3, #div4
-    {float: right; width:80px; height:105px; margin:0px; margin-left: -10px; margin-right: -10px;  padding:0px;border:1px solid #aaaaaa;}
+    {float: right; width:80px; height:105px;  margin-left: -10px; margin-right: -10px;  padding:0px;border:1px solid #aaaaaa;}
       body {
         padding-top: 60px;
         padding-bottom: 40px;
@@ -26,12 +26,7 @@
 
 
 
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="../assets/js/html5shiv.js"></script>
-    <![endif]-->
-
-    <!-- Fav and touch icons -->
+    
    
   </head>
 
