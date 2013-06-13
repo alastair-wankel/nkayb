@@ -13,7 +13,7 @@
     <style type="text/css">
     
     #div1, #div2, #div3, #div4
-    {float: right; width:100px; height:35px; margin:0px; padding:10px;border:1px solid #aaaaaa;}
+    {float: right; width:139px; height:189px; margin:0px; padding:10px;border:1px solid #aaaaaa;}
       body {
         padding-top: 60px;
         padding-bottom: 40px;
@@ -70,9 +70,9 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit" ondrop="drop(event)" ondragover="allowDrop(event)">
-        <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" id="drag3" width="88" height="31">
-        <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" id="drag1" width="88" height="31">
-        <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" id="drag2" width="88" height="31">
+        <img draggable="true" ondragstart="drag(event)"  src="images/mod.png" id="drag3" width="88" height="31">
+        <img draggable="true" ondragstart="drag(event)"  src="images/mod.png" id="drag1" width="88" height="31">
+        <img draggable="true" ondragstart="drag(event)"  src="images/mod.png" id="drag2" width="88" height="31">
       </div>
 
     </div>
