@@ -97,7 +97,7 @@
   <div class="item active" ondrop="drop(event)" ondragover="allowDrop(event)">
         <ul class="thumbnails">
             <li class="span2">
-                
+                    <div id="div1" class="hero-unit" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                     <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" id="drag1" width="88" height="31">
                 
             </li>
