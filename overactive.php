@@ -81,13 +81,13 @@
             <li class="span2">
                             <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
-                        <li class="span2">
+                        <li class="span">
                             <div id="div2"   ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
-                        <li class="span2">
+                        <li class="span">
                             <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
-                        <li class="span2">
+                        <li class="span">
                             <div id="div4"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
             
