@@ -98,9 +98,20 @@
             
         </ul>
   </div>
-  
-
-  
+  <div class="item">
+  <ul class="thumbnails">
+            <li class="span2">
+                            <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                        </li>
+                        <li class="span2">
+                            <div id="div2"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                        </li>
+                        <li class="span2">
+                            <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                        </li>
+            
+        </ul>
+  </div>
   
 </div>
 <a data-slide="prev" href="#myCarousel" class="left carousel-control">‹</a>
