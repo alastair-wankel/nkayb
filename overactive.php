@@ -13,7 +13,7 @@
     <style type="text/css">
     
     #div1, #div2, #div3, #div4
-    {float: right; width:139px; height:189px; margin:0px; padding:10px;border:1px solid #aaaaaa;}
+    {float: right; width:70px; height:95px; margin:0px; padding:10px;border:1px solid #aaaaaa;}
       body {
         padding-top: 60px;
         padding-bottom: 40px;
