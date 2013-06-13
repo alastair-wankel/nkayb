@@ -80,6 +80,7 @@
 
     </div>
       <!-- Example row of columns -->
+<div class="container">
 <div class="row">
 <div class="carousel slide span8" id="myCarousel">
 <div class="carousel-inner">
@@ -98,6 +99,7 @@
 </div>
 <a data-slide="prev" href="#myCarousel" class="left carousel-control">‹</a>
 <a data-slide="next" href="#myCarousel" class="right carousel-control">›</a>
+</div>
 </div>
 </div>
 
