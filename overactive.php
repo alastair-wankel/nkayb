@@ -13,7 +13,7 @@
     <style type="text/css">
     
     #div1, #div2
-    {float:left; width:100px; height:35px; margin:100px;padding:10px;border:1px solid #aaaaaa;}
+    {float:left; width:100px; height:35px; margin:50px;padding:10px;border:1px solid #aaaaaa;}
       body {
         padding-top: 60px;
         padding-bottom: 40px;
@@ -100,7 +100,7 @@
                     <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                     <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                     <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
-                    
+
                     <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" id="drag1" width="88" height="31">
                 
             </li>
