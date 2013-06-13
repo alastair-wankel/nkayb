@@ -13,7 +13,7 @@
     <style type="text/css">
     
     #div1, #div2, #div3, #div4
-    {float: left; width:80px; height:105px;  display: inline;   padding:0px;border:1px solid #aaaaaa;}
+    {float: right; width:80px; height:105px;  display: inline;   padding:0px;border:1px solid #aaaaaa;}
       body {
         padding-top: 60px;
         padding-bottom: 40px;
@@ -78,7 +78,7 @@
   <div class="carousel-inner">
   <div class="item active" >
         <ul class="thumbnails">
-            <li class="span2">
+                        <li class="span">
                             <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span">
@@ -95,19 +95,18 @@
   </div>
   <div class="item">
   <ul class="thumbnails">
-            <li class="span2">
-                            <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+            <li class="span">
+                            <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
-                        <li class="span2">
-                            <div id="div2"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                        <li class="span">
+                            <div id="div2"   ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
-                        <li class="span2">
+                        <li class="span">
                             <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
-                        <li class="span2">
+                        <li class="span">
                             <div id="div4"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
-            
         </ul>
   </div>
   
