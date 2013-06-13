@@ -84,7 +84,7 @@
   <div class="row">
   <div class="carousel slide span8" id="myCarousel">
   <div class="carousel-inner">
-  <div class="item active">
+  <div class="item active" ondrop="drop(event)" ondragover="allowDrop(event)">
         <ul class="thumbnails">
             <li class="span2">
                 
