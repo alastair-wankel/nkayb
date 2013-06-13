@@ -95,6 +95,9 @@
                         <li class="span2">
                             <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
+                        <li class="span2">
+                            <div id="div4"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                        </li>
             
         </ul>
   </div>
@@ -108,6 +111,9 @@
                         </li>
                         <li class="span2">
                             <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                        </li>
+                        <li class="span2">
+                            <div id="div4"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
             
         </ul>
