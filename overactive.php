@@ -13,7 +13,7 @@
     <style type="text/css">
     
     #div1, #div2
-    {float:left; width:100px; height:35px; margin:10px;padding:10px;border:1px solid #aaaaaa;}
+    {float:left; width:100px; height:35px; margin:100px;padding:10px;border:1px solid #aaaaaa;}
       body {
         padding-top: 60px;
         padding-bottom: 40px;
@@ -81,9 +81,9 @@
     </div>
       <!-- Example row of columns -->
 <div class="container">
-<div class="row">
-<div class="carousel slide span8" id="myCarousel">
-<div class="carousel-inner">
+  <div class="row">
+  <div class="carousel slide span8" id="myCarousel">
+  <div class="carousel-inner">
   <div class="item active">
         <ul class="thumbnails">
             <li class="span2">
