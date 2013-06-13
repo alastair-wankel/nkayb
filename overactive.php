@@ -18,6 +18,10 @@
         padding-top: 60px;
         padding-bottom: 40px;
       }
+      .inner-item {
+    text-align: center;
+    img {
+    margin: 0 auto;}}
     </style>
     <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 
@@ -90,13 +94,13 @@
                             <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span2">
-                            <div id="div2"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div2" class="inner-item"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span2">
-                            <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div3" class="inner-item" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span2">
-                            <div id="div4"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div4" class="inner-item" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
             
         </ul>
@@ -104,16 +108,16 @@
   <div class="item">
   <ul class="thumbnails">
             <li class="span2">
-                            <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div1" class="inner-item" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span2">
-                            <div id="div2"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div2" class="inner-item" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span2">
-                            <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div3" class="inner-item" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span2">
-                            <div id="div4"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div4" class="inner-item" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
             
         </ul>
