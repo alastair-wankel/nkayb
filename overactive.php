@@ -88,7 +88,7 @@
         <ul class="thumbnails">
             <li class="span2">
                 
-                    <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" alt="">
+                    <img draggable="true" ondragstart="drag(event)"  src="images/img_w3slogo.gif" id="drag1" width="88" height="31">
                 
             </li>
             
