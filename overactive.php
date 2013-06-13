@@ -18,10 +18,7 @@
         padding-top: 60px;
         padding-bottom: 40px;
       }
-      .inner-item {
-    text-align: center;
-    img {
-    margin: 0 auto;}}
+      
     </style>
     <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 
@@ -86,7 +83,7 @@
       <!-- Example row of columns -->
 <div class="container">
   <div class="row">
-  <div class="carousel slide span8" id="myCarousel">
+  <div class="carousel slide span12" id="myCarousel">
   <div class="carousel-inner">
   <div class="item active" >
         <ul class="thumbnails">
