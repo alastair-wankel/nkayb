@@ -73,7 +73,7 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit" ondrop="drop(event)" ondragover="allowDrop(event)">
-        <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
+        <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
         
         <div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
       </div>
