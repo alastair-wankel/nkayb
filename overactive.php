@@ -78,7 +78,7 @@
         <div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
       </div>
 
-
+    </div>
       <!-- Example row of columns -->
 <div class="row">
 <div class="carousel slide span8" id="myCarousel">
@@ -103,9 +103,7 @@
 
       <hr>
 
-      <footer>
-        <p>&copy; Company 2013</p>
-      </footer>
+      
 
     </div> 
       
