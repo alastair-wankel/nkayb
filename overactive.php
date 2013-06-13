@@ -13,7 +13,7 @@
     <style type="text/css">
     
     #div1, #div2, #div3, #div4
-    {float:left; width:100px; height:35px; margin:1px;padding:10px;border:1px solid #aaaaaa;}
+    { width:100px; height:35px; margin:1px;padding:10px;border:1px solid #aaaaaa;}
       body {
         padding-top: 60px;
         padding-bottom: 40px;
@@ -60,11 +60,7 @@
                 </ul>
               </li>
             </ul>
-            <form class="navbar-form pull-right">
-              <input class="span2" type="text" placeholder="Email">
-              <input class="span2" type="password" placeholder="Password">
-              <button type="submit" class="btn">Sign in</button>
-            </form>
+            
           </div><!--/.nav-collapse -->
         </div>
       </div>
@@ -91,13 +87,13 @@
                             <div id="div1"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span2">
-                            <div id="div2" class="inner-item"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div2"   ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span2">
-                            <div id="div3" class="inner-item" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span2">
-                            <div id="div4" class="inner-item" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div4"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
             
         </ul>
@@ -105,16 +101,16 @@
   <div class="item">
   <ul class="thumbnails">
             <li class="span2">
-                            <div id="div1" class="inner-item" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span2">
-                            <div id="div2" class="inner-item" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div2"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span2">
-                            <div id="div3" class="inner-item" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div3"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
                         <li class="span2">
-                            <div id="div4" class="inner-item" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                            <div id="div4"  ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         </li>
             
         </ul>
