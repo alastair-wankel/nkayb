@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Starter Template for Bootstrap</title>
+    <title>Animantis LLC</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
@@ -47,7 +47,7 @@
           <ul class="nav navbar-nav">
             
             <li><a href="#about"></a></li>
-            <li><a href="#contact"><span class="glyphicons glyphicons-envelope"></span>things</a></li>
+            <li><a href="#contact"><span class="glyphicons glyphicons-user"></span>things</a></li>
             <li><a href="#research"></a></li>
           </ul>
         </div><!--/.nav-collapse -->
