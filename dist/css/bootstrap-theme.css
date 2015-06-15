@@ -41,6 +41,9 @@
 .btn.active {
   background-image: none;
 }
+.green {
+    color: #green;
+}
 .btn-default {
   text-shadow: 0 1px 0 #fff;
   background-image: -webkit-linear-gradient(top, #fff 0%, #e0e0e0 100%);
