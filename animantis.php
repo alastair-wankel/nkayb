@@ -47,7 +47,7 @@
           <ul class="nav navbar-nav">
             
             <li><a href="#about"></a></li>
-            <li><a href="#contact">things</a><span class="glyphicons glyphicons-envelope"></span></li>
+            <li><a href="#contact"><span class="glyphicons glyphicons-envelope"></span>things</a></li>
             <li><a href="#research"></a></li>
           </ul>
         </div><!--/.nav-collapse -->
