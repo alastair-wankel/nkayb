@@ -31,7 +31,7 @@
 
   <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -47,7 +47,7 @@
           <ul class="nav navbar-nav">
             
             <li><a href="#about"></a></li>
-            <li><a href="#contact"><span class="glyphicons glyphicons-user"></span>things</a></li>
+            <li><a href="#contact"><span class="glyphicon glyphicon-user"></span> things</a></li>
             <li><a href="#research"></a></li>
           </ul>
         </div><!--/.nav-collapse -->
