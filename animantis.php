@@ -36,7 +36,7 @@
             <ul class="nav">
               <li><a href="#about">About</a></li>
               
-              <li><a href="#contact"><span class="glyphicon glyphicon-user"></span></a></li>
+              <li><a href="#contact">Contact<span class="glyphicon glyphicon-user"></span></a></li>
             </ul>
             <form class="navbar-form pull-right">
               <input class="span2" type="text" placeholder="Email">
