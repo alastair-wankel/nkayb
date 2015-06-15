@@ -1117,6 +1117,10 @@ a:focus {
 figure {
   margin: 0;
 }
+
+.green {
+    color: #00CC66;
+}
 img {
   vertical-align: middle;
 }
