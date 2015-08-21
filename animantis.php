@@ -28,7 +28,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <style type="text/css">
-          body { background: navy; !important }
+          body { background: -webkit-linear-gradient(white, white, #86c67c); !important }
     </style>
   </head>
 
