@@ -39,7 +39,7 @@
 
   </head>
 
-  <body id="grad1" >
+  <body class="grad" >
       <nav class="navbar navbar-fixed-top">
       <div class="container" id="grad1">
         <div class="navbar-header">
