@@ -26,13 +26,23 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-   
+<style>
+  #grad1 {
+       
+    background: -webkit-linear-gradient(red, blue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(red, blue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, blue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(red, blue); /* Standard syntax (must be last) */
+    }
+</style>
+    
+
   </head>
 
   <body>
 
     <nav class="navbar navbar-fixed-top">
-      <div class="container">
+      <div id="grad1" class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
