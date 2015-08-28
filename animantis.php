@@ -40,7 +40,7 @@
   </head>
 
   <body>
-  <div class="grad">
+  <div class=" container grad">
       <nav class="navbar navbar-fixed-top">
       <div class="container" >
         <div class="navbar-header">

@@ -13,13 +13,7 @@ html {
 body {
   margin: 0;
 }
-.grad {
-    background-image: -webkit-linear-gradient(white,white, #A6D785); /* For Safari 5.1 to 6.0 */
-    background-image: -o-linear-gradient(white,white, #A6D785); /* For Opera 11.1 to 12.0 */
-    background-image: -moz-linear-gradient(white,white, #A6D785); /* For Firefox 3.6 to 15 */
-    background-image: linear-gradient(white,white, #A6D785); /* Standard syntax (must be last) */
-    
-}
+
 article,
 aside,
 details,
@@ -288,6 +282,13 @@ th {
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+.grad {
+    background: -webkit-linear-gradient(white,white, #A6D785); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white,white, #A6D785); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white,white, #A6D785); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white,white, #A6D785); /* Standard syntax (must be last) */
+    
 }
 .glyphicon-asterisk:before {
   content: "\2a";
