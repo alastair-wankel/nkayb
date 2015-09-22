@@ -32,8 +32,8 @@
 
   </head>
 
-  <body id="grad1">
-  <div >
+  <body >
+  <div id="grad1" >
       <nav class="navbar navbar-fixed-top">
       <div class="container" >
         <div class="navbar-header">
