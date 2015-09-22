@@ -13,7 +13,7 @@
     <title>Animantis LLC</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../../dist/css/bootstrap.css" rel="stylesheet">
+    <!--<link href="../../dist/css/bootstrap.css" rel="stylesheet"> -->
     <link href="animantis.css" rel="stylesheet" type="text/css" />
 
     
