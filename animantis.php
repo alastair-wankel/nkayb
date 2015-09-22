@@ -32,8 +32,8 @@
 
   </head>
 
-  <body>
-  <div class="grad" >
+  <body class="grad">
+  
       <nav class="navbar navbar-fixed-top">
       <div class="container" >
         <div class="navbar-header">
@@ -56,7 +56,7 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
-  </div>
+  
   
     
 
