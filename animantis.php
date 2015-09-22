@@ -30,10 +30,10 @@
 
   </head>
 
-  <body>
-      <div class="container grad">
+  <body class="grad container">
+      
       <nav class="navbar navbar-fixed-top">
-      <div class="container grad" >
+      <div class="container" >
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
@@ -54,7 +54,7 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
-  </div>
+  
   
     
 
