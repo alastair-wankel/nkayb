@@ -2,5 +2,6 @@
 
 body {
      /* For Firefox 3.6 to 15 */
+     background-color: #A6D785;
     background: linear-gradient(white, #A6D785); /* Standard syntax (must be last) */
     }
