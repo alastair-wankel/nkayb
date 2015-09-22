@@ -14,7 +14,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="../../dist/css/bootstrap.css" rel="stylesheet">
-    <link href="animantis.css" rel="stylesheet" type="text/css" />
+    <link href="animantis.css" rel="stylesheet" type="text/css"/>
 
     
 
@@ -32,11 +32,11 @@
 
   </head>
 
-  <body id="grad"  >
-  <div id="grad" >
-      <nav class="navbar navbar-fixed-top" id="grad" >
-      <div class="container" id="grad" >
-        <div class="navbar-header" id="grad" >
+  <body class="grad">
+  <div >
+      <nav class="navbar navbar-fixed-top">
+      <div class="container" >
+        <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
@@ -46,7 +46,7 @@
           <a class="navbar-brand" href="#animantis"><img style="max-width:100px; margin-top: -7px;"
              src="/images/animantis_logo.png"></a>
         </div>
-        <div id="navbar" class="collapse navbar-collapse" id="grad" >
+        <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-right navbar-nav">
             
             <li><a href="#about"><span class="glyphicon glyphicon-user green"></span></a></li>

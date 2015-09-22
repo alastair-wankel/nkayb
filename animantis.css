@@ -1,6 +1,6 @@
 /*    */
 
-body {
+.grad{
      /* For Firefox 3.6 to 15 */
     background-color: #A6D785;
     background: linear-gradient(#648880, #293f50);
