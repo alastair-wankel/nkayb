@@ -14,6 +14,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="../../dist/css/bootstrap.css" rel="stylesheet">
+    <link href="animantis.css" rel="stylesheet" type="text/css" />
 
     
 
@@ -26,15 +27,7 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-<style>
-  #grad1 {
-       
-    background: -webkit-linear-gradient(white,white, #A6D785); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(white,white, #A6D785); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(white,white, #A6D785); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(white,white, #A6D785); /* Standard syntax (must be last) */
-    }
-</style>
+
     
 
   </head>
