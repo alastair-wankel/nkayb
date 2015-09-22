@@ -32,7 +32,7 @@
 
   </head>
 
-  <body class="grad1">
+  <body id="grad1">
   <div >
       <nav class="navbar navbar-fixed-top">
       <div class="container" >
