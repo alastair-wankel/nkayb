@@ -29,9 +29,9 @@
     
 
   </head>
-<div class="container grad">
+
   <body>
-      
+      <div class="container grad">
       <nav class="navbar navbar-fixed-top">
       <div class="container grad" >
         <div class="navbar-header">
@@ -54,7 +54,7 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
-  
+  </div>
   
     
 
@@ -66,5 +66,4 @@
     <script src="../../dist/js/bootstrap.min.js"></script>
     
   </body>
-  </div>
 </html>

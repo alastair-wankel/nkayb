@@ -1,6 +1,7 @@
 /*    */
 
 .grad {
+	height:100%;
      /* For Firefox 3.6 to 15 */
 background: green;
 /*background: -moz-linear-gradient(top, #ffffff 0%, #aac791 100%);
