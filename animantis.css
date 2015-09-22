@@ -3,10 +3,10 @@
 .grad {
      /* For Firefox 3.6 to 15 */
 background: #ffffff;
-background: -moz-linear-gradient(top, #ffffff 0%, #aac791 100%);
+/*background: -moz-linear-gradient(top, #ffffff 0%, #aac791 100%);
 background: -webkit-linear-gradient(top, #ffffff 0%, #aac791 100%);
 background: -o-linear-gradient(top, #ffffff 0%, #aac791 100%);
-background: -ms-linear-gradient(top, #ffffff 0%, #aac791 100%);
+background: -ms-linear-gradient(top, #ffffff 0%, #aac791 100%); */
 background: linear-gradient(to bottom, #ffffff 0%, #aac791 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#aac791', GradientType=0 );
 
